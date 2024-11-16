@@ -1,0 +1,12 @@
+.vs
+.idea
+Logs
+Temp
+obj
+bin
+
+*.tmp
+*.user
+*.userprefs
+*.pdb
+
