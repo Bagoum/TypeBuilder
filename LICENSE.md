@@ -1,4 +1,4 @@
-# Suzunoya License
+# TypeBuilder License
 
 ## About
 
